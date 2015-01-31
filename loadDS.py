@@ -1,6 +1,4 @@
-# Written by @Rezwan Ghassemi
-
-
+# By @Rezwan Ghassemi
 
 from sklearn import datasets
 iris = datasets.load_iris()
