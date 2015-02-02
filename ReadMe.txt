@@ -11,3 +11,5 @@ reducing the number of colors from 96,615 unique colors to 64, while preserving 
 5- model_persistance: saves the model (SVM and pickle)
 6- plot_randomly_generated_classification_dataset: Plot several randomly generated 2D classification datasets
 7- plot_iris_dataset: 3D plot of trainign data sets consists 50 samples of 3 different types of irises
+8- plot_decisiontree_regression: Fit 1D regression with decision tree and predict and plot the outcomes (Desicion tree algorithm, 1D regression)
+9- plot_decisiontree_regressor_multioutput: multi-output regression with decision tree (Decision tree, multi output, regression)
