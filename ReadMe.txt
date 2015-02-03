@@ -1,4 +1,4 @@
-Here is a list of my machine learning experience in business, documentation (wikipedia), ... etc (using Python and scikit):
+Here is a list of my machine learning experience in business, healthcare, hypersecurity, visualization, documentation (wikipedia), ... etc (using Python and scikit)
 
 1- Loading datasets
 	a) Pen-Based Recognition of Handwritten Digits Data Set: A digit database by collecting 250 samples from 44 writers. The samples written by 30 writers are used for training, cross-validation and writer dependent testing, and the digits written by the other 14 are used for writer independent testing 
@@ -17,4 +17,10 @@ reducing the number of colors from 96,615 unique colors to 64, while preserving 
 11- plot_outofcore_classification: Reuter text document classification using HashingVectorizer, with output image. 
 12- plot_prediction_latency: predicts latency of various scikit-learn estimators
 13- analyze_wikipedia_page_eigenvector: analyze the graph of links inside wikipedia articles to rank articles by relative importance according to this eigenvector centrality (Randomized SVM algorithm, power iteration method.
-14- plot_stock_market: Extracts the stock market structure from variations in historical quotes. The quantity that we use is the daily variation in quote price: quotes that are linked tend to cofluctuate during a day (Unsupervised learning:)
+14- plot_stock_market: Extracts the stock market structure from variations in historical quotes. The quantity that we use is the daily variation in quote price: quotes that are linked tend to cofluctuate during a day (Unsupervised learning)
+15- plot_entropy_modeling_geographic_distribution: Models the geographic distribution of two south american mammals given past observations and 14 environmental variables (OneClassSVM)
+16- plot_model_complexity_influence: Demonstrating how model complexity influences both prediction accuracy and computational performance. Dataset is the Boston Housing dataset (resp. 20 Newsgroups) for regression (resp. classification).
+17- topic_extraction_with_nmf: topic extraction in a corpus of 20 newsgroups dataset (Negative Matrix Factorization)
+18- outlier_detection: Detecting outlier and understanding data structure; the first example illustrates how robust covariance estimation can help concentrating on a relevant cluster when another one exists. The second example shows the ability of the Minimum Covariance Determinant robust estimator of covariance to concentrate on the main mode of the data distribution
+19- plot_ct_reconstruction: Reconstruction of an image from a set of parallel projections, acquired along different angles (Lasso and Ridge algorithms)
+20- face_recognition: recognize 8 faces from 966 faces (unsupervised feature extraction, dimensionality reduction, using eigen face and SVM)
