@@ -13,3 +13,5 @@ reducing the number of colors from 96,615 unique colors to 64, while preserving 
 7- plot_iris_dataset: 3D plot of trainign data sets consists 50 samples of 3 different types of irises
 8- plot_decisiontree_regression: Fit 1D regression with decision tree and predict and plot the outcomes (Desicion tree algorithm, 1D regression)
 9- plot_decisiontree_regressor_multioutput: multi-output regression with decision tree (Decision tree, multi output, regression)
+10- plot_decision_surface_of_tree: Plots the decision surface of a decision tree trained on pairs of features of the iris dataset. the decision tree learns decision boundaries made of combinations of simple thresholding rules inferred from the training samples (Decision tree, classification)
+11- plot_outofcore_classification: Reuter text document classification using HashingVectorizer, with output image. 
