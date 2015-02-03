@@ -3,6 +3,8 @@
 # The plot represents the learning curve of the classifier: the evolution of classification accuracy over the course of the mini-batches. 
 # Accuracy is measured on the first 1000 samples, held out as a validation set.
 # To limit the memory consumption, we queue examples up to a fixed amount before feeding them to the learner.
+# Hashing vectorize converts a collection of text documents to a matrix of token occurrences
+
 
 
 from __future__ import print_function

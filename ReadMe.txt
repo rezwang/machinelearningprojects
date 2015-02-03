@@ -1,4 +1,4 @@
-Here is a list of my experience in machine learning projects using Python and scikit:
+Here is a list of my machine learning experience in business, documentation (wikipedia), ... etc (using Python and scikit):
 
 1- Loading datasets
 	a) Pen-Based Recognition of Handwritten Digits Data Set: A digit database by collecting 250 samples from 44 writers. The samples written by 30 writers are used for training, cross-validation and writer dependent testing, and the digits written by the other 14 are used for writer independent testing 
@@ -15,3 +15,6 @@ reducing the number of colors from 96,615 unique colors to 64, while preserving 
 9- plot_decisiontree_regressor_multioutput: multi-output regression with decision tree (Decision tree, multi output, regression)
 10- plot_decision_surface_of_tree: Plots the decision surface of a decision tree trained on pairs of features of the iris dataset. the decision tree learns decision boundaries made of combinations of simple thresholding rules inferred from the training samples (Decision tree, classification)
 11- plot_outofcore_classification: Reuter text document classification using HashingVectorizer, with output image. 
+12- plot_prediction_latency: predicts latency of various scikit-learn estimators
+13- analyze_wikipedia_page_eigenvector: analyze the graph of links inside wikipedia articles to rank articles by relative importance according to this eigenvector centrality (Randomized SVM algorithm, power iteration method.
+14- plot_stock_market: Extracts the stock market structure from variations in historical quotes. The quantity that we use is the daily variation in quote price: quotes that are linked tend to cofluctuate during a day (Unsupervised learning:)
