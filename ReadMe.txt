@@ -19,7 +19,7 @@ b) The Iris flower data set or Fisher's Iris data set is a multivariate data set
 
 ########################## Unsupervised Learning #############################
 *- newsgroups_text_classification: A dataset of 18000 newsgroups posts on 20 topics (unsupervised)
-*- analyze_wikipedia_page_eigenvector: analyze the graph of links inside wikipedia articles to rank articles by relative importance according to this eigenvector centrality (Randomized SVM algorithm, power iteration method.
+*- analyze_wikipedia_page_eigenvector: analyze the graph of links inside wikipedia articles to rank articles by relative importance according to this eigenvector centrality (Randomized SVM algorithm, power iteration method).
 *- plot_color_quantization: Performs a pixel-wise Vector Quantization (VQ) of an image, 
 reducing the number of colors from 96,615 unique colors to 64, while preserving the overall appearance quality (Unsupervised, Clustering, KMeans algorithm).
 *- plot_stock_market: Extracts the stock market structure from variations in historical quotes. The quantity that we use is the daily variation in quote price: quotes that are linked tend to cofluctuate during a day (Unsupervised learning)
@@ -37,5 +37,5 @@ reducing the number of colors from 96,615 unique colors to 64, while preserving 
 *- plot_label_propogation_digit_active_learning: active learning technique to learn handwritten digits using label propagation (semi_supervised, propogation)
 
 ############################ Generalized Linear Model, supervised ############
-*- plotting logistic-regression classifiers decision boundaries on the iris dataset (supervides, logistic regression, classifier)
-*- 2D plot of linear regression of dieabetes data set. he coefficients, the residual sum of squares and the variance score are also calculated (linear regression, supervised)
+*- plotting logistic-regression classifiers decision boundaries on the iris dataset (logistic regression, classifier, supervised)
+*- 2D plot of linear regression of dieabetes data set. he coefficients, the residual sum of squares and the variance score are also calculated (linear regression, supervised).
